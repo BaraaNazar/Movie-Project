@@ -1,0 +1,17 @@
+#movie-backdrop {
+    width: 100%;
+}
+
+.container {
+    padding-top: 32px;
+}
+
+#actors {
+    margin: 24px 16px 0 0;
+}
+
+
+ .poster {
+    max-height: 600px;
+    min-height: 200px;
+  }
